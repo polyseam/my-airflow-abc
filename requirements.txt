@@ -1,2 +1,2 @@
 # enter your airflow dependencies here
-apache-airflow-providers-microsoft-mssql==3.0.0
+apache-airflow-providers-microsoft-mssql==3.4.1
