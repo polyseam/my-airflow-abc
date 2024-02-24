@@ -1,7 +1,6 @@
 <img src="./docs/img/ez-af-baker.png" height="400" width="1200"/>
 
 <br/>
-<br/>
 
 <center>
 <h1>EZ AF Baking</h1>
